@@ -1,0 +1,10 @@
+Develop an IoT enabled solution with Android application to give real-time parking space available on the Campus / City / Resident Societies
+
+
+The above mentioned will be applicable to those vehicles that have already registered in to the system and used the navigating system. 
+But we also need to consider those vehicles which have not registered and are manually finding parking space and heading towards the same parking slot. 
+Can you solve this problem? Develop a smart efficient application system to solve the problem related to real-time parking space.
+Whenever a person wants to find a parking space on the campus, he has already registered to the application using his user id and password.
+When he finds for the parking space, the server will send a response with the available parking details, real-time mapped directions and real-time parking space to allocate parking according to the size of the vehicle. 
+The application would be smart enough to identify whether the car is heading towards the same parking space or 
+If not, the application would re-route the same car to another nearest available parking space.
