@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "192603778519",
+    "firebase_url": "https://fir-park-e73e1.firebaseio.com",
+    "project_id": "fir-park-e73e1",
+    "storage_bucket": "fir-park-e73e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192603778519:android:12a283d609199af2b62f92",
+        "android_client_info": {
+          "package_name": "com.example.s_park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192603778519-0docs6ed7bifdtgro2cudn83u85phfef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.s_park",
+            "certificate_hash": "e700e9760b10273ec76861ba826324c26cfd153f"
+          }
+        },
+        {
+          "client_id": "192603778519-nui2g50mscg3f3l4pvjokk8i6gjrco4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmrC1AXeHXyyIGiwFjllAd_JAnf3EGT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192603778519-nui2g50mscg3f3l4pvjokk8i6gjrco4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
