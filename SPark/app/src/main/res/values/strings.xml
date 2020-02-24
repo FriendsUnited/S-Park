@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S-Park</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="create_password">Create Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="signup">SignUp</string>
+</resources>
