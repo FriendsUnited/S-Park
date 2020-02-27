@@ -30,5 +30,6 @@ public class SignUp extends AppCompatActivity {
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference myRef = database.getReference(E_mail);
         myRef.child("Phone").setValue(Phone_no.toString());
+
     }
 }
